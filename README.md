@@ -1,6 +1,6 @@
-# Tic-Tac-Toe with Tkinter
+# Tic-Tac-Toe GUI Game
 
-To run the program with GUI:
+To run the program with GUI Tkinter library:
 
 First run player2UI.py, then run player1UI.py. 
 
