@@ -1,4 +1,4 @@
-Tic-Tac-Toe with Tkinter
+# Tic-Tac-Toe with Tkinter
 
 
 First run player2UI.py, then run player1UI.py. 
