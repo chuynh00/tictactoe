@@ -1,6 +1,7 @@
 # Tic-Tac-Toe with Tkinter
 
 To run the program with GUI:
+
 First run player2UI.py, then run player1UI.py. 
 
 Enter the hostname and port information on player2UI.py and press the "Connect & Wait" button. Player 2 is the server and will wait for Player 1, the client, to connect.
